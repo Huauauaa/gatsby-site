@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/post-one","result":{"data":{"markdownRemark":{"html":"<p>This is my very post in Gatsby</p>","frontmatter":{"path":"/post-one","title":"My First Gatsby Post","author":"Ruirui","date":"2020-03-19"}}},"pageContext":{}},"staticQueryHashes":["3649515864"]}
