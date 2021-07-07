@@ -29,8 +29,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
-      - run: yarn install --frozen-lockfile
-      - run: yarn build:prefix-paths
+      - run: npm install --frozen-lockfile
+      - run: npm run build:prefix-paths
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
